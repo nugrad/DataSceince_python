@@ -1,0 +1,12 @@
+{
+  "greetings": {
+    "hello": "Hi there!",
+    "hi": "Hello!",
+    "hey": "Hey, how's it going?"
+  },
+  "farewells": {
+    "bye": "Goodbye!",
+    "see you": "See you later!",
+    "later": "Talk to you later!"
+  }
+}
